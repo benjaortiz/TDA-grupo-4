@@ -18,7 +18,7 @@ def correr_prueba(n, cant_corridas):
     sets.guardar_resultado(n,solucion,tiempo_promedio)
 
 
-#sets.armar_set_datos()
+sets.armar_set_datos()
 
 for n in sets.CANTIDAD_SEMANAS:
     correr_prueba(n, sets.CANTIDAD_CORRIDAS)

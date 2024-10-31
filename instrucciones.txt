@@ -1,0 +1,11 @@
+-- Problema 1 --
+
+Para el problema 1, se puede ejecutar el programa correr_pruebas.py y se generan automaticamente
+sets de datos de distintos tamanios (1 por cada valor de la lista 'CANTIDAD_SEMANAS' presente en el archivo dataset_manager)
+Cada uno de estos archivos es abierto y se ejecuta el algoritmo X cantidad de veces (el valor depende de la constante
+ 'CANTIDAD_CORRIDAS' en el archivo dataset_manager) para calcular el tiempo promedio. La solucion y los resultados se guardan
+ en un archivo resultado_n_M (M es el valor de n, la cantidad de semanas)
+
+ Si se desea correr el algoritmo 1 sola vez, se puede ejecutar el archivo problema1.py. Por linea de comando se puede seleccionar
+ si ejecutar el algoritmo 1 vez con datos aleatorios generados en el momento, o si ejecutar uno de los sets de datos ya existentes
+ (en este caso los resultados se imprimen por pantalla y ademas se guardan en el archivo de resultado_n_ correspondiente)

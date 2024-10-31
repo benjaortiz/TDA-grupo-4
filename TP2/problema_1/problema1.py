@@ -21,11 +21,11 @@ elif eleccion == 2:
     print("tareas estresantes:", estresantes,"\n")
 
     (beneficios, solucion) = pd.ejecutar_algoritmo(n,tranquilas,estresantes)
-    tiempo = timeit.timeit(lambda: pd.ejecutar_algoritmo(n,tranquilas,estresantes), number = 1)
-    
+
     print("Lista de Beneficios: ", beneficios, "\n")
     print("Tareas seleccionadas cada semana: ", solucion, "\n")
 
+    tiempo = timeit.timeit(lambda: pd.ejecutar_algoritmo(n,tranquilas,estresantes), number = 1)
     sets.guardar_resultado(n,solucion,tiempo)
 
 else:
