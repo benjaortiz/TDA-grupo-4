@@ -1,0 +1,1139 @@
+MATRIZ DE COSTOS DESPUES DE LA INICIALIZACION Y SIMETRIA:
+COST( 1 , 1 ) =  15000 
+COST( 1 , 2 ) =  66 
+COST( 1 , 3 ) =  15000 
+COST( 1 , 4 ) =  15000 
+COST( 1 , 5 ) =  15000 
+COST( 1 , 6 ) =  15000 
+COST( 1 , 7 ) =  15000 
+COST( 1 , 8 ) =  15000 
+COST( 1 , 9 ) =  15000 
+COST( 1 , 10 ) =  15000 
+COST( 1 , 11 ) =  15000 
+COST( 2 , 1 ) =  66 
+COST( 2 , 2 ) =  15000 
+COST( 2 , 3 ) =  122 
+COST( 2 , 4 ) =  126 
+COST( 2 , 5 ) =  15000 
+COST( 2 , 6 ) =  15000 
+COST( 2 , 7 ) =  15000 
+COST( 2 , 8 ) =  15000 
+COST( 2 , 9 ) =  15000 
+COST( 2 , 10 ) =  15000 
+COST( 2 , 11 ) =  15000 
+COST( 3 , 1 ) =  15000 
+COST( 3 , 2 ) =  122 
+COST( 3 , 3 ) =  15000 
+COST( 3 , 4 ) =  80 
+COST( 3 , 5 ) =  148 
+COST( 3 , 6 ) =  15000 
+COST( 3 , 7 ) =  15000 
+COST( 3 , 8 ) =  15000 
+COST( 3 , 9 ) =  15000 
+COST( 3 , 10 ) =  15000 
+COST( 3 , 11 ) =  15000 
+COST( 4 , 1 ) =  15000 
+COST( 4 , 2 ) =  126 
+COST( 4 , 3 ) =  80 
+COST( 4 , 4 ) =  15000 
+COST( 4 , 5 ) =  126 
+COST( 4 , 6 ) =  15000 
+COST( 4 , 7 ) =  15000 
+COST( 4 , 8 ) =  15000 
+COST( 4 , 9 ) =  15000 
+COST( 4 , 10 ) =  15000 
+COST( 4 , 11 ) =  15000 
+COST( 5 , 1 ) =  15000 
+COST( 5 , 2 ) =  15000 
+COST( 5 , 3 ) =  148 
+COST( 5 , 4 ) =  126 
+COST( 5 , 5 ) =  15000 
+COST( 5 , 6 ) =  49 
+COST( 5 , 7 ) =  15000 
+COST( 5 , 8 ) =  15000 
+COST( 5 , 9 ) =  15000 
+COST( 5 , 10 ) =  15000 
+COST( 5 , 11 ) =  15000 
+COST( 6 , 1 ) =  15000 
+COST( 6 , 2 ) =  15000 
+COST( 6 , 3 ) =  15000 
+COST( 6 , 4 ) =  15000 
+COST( 6 , 5 ) =  49 
+COST( 6 , 6 ) =  15000 
+COST( 6 , 7 ) =  101 
+COST( 6 , 8 ) =  15000 
+COST( 6 , 9 ) =  15000 
+COST( 6 , 10 ) =  15000 
+COST( 6 , 11 ) =  15000 
+COST( 7 , 1 ) =  15000 
+COST( 7 , 2 ) =  15000 
+COST( 7 , 3 ) =  15000 
+COST( 7 , 4 ) =  15000 
+COST( 7 , 5 ) =  15000 
+COST( 7 , 6 ) =  101 
+COST( 7 , 7 ) =  15000 
+COST( 7 , 8 ) =  69 
+COST( 7 , 9 ) =  72 
+COST( 7 , 10 ) =  15000 
+COST( 7 , 11 ) =  15000 
+COST( 8 , 1 ) =  15000 
+COST( 8 , 2 ) =  15000 
+COST( 8 , 3 ) =  15000 
+COST( 8 , 4 ) =  15000 
+COST( 8 , 5 ) =  15000 
+COST( 8 , 6 ) =  15000 
+COST( 8 , 7 ) =  69 
+COST( 8 , 8 ) =  15000 
+COST( 8 , 9 ) =  45 
+COST( 8 , 10 ) =  15000 
+COST( 8 , 11 ) =  56 
+COST( 9 , 1 ) =  15000 
+COST( 9 , 2 ) =  15000 
+COST( 9 , 3 ) =  15000 
+COST( 9 , 4 ) =  15000 
+COST( 9 , 5 ) =  15000 
+COST( 9 , 6 ) =  15000 
+COST( 9 , 7 ) =  72 
+COST( 9 , 8 ) =  45 
+COST( 9 , 9 ) =  15000 
+COST( 9 , 10 ) =  15000 
+COST( 9 , 11 ) =  15000 
+COST( 10 , 1 ) =  15000 
+COST( 10 , 2 ) =  15000 
+COST( 10 , 3 ) =  15000 
+COST( 10 , 4 ) =  15000 
+COST( 10 , 5 ) =  15000 
+COST( 10 , 6 ) =  15000 
+COST( 10 , 7 ) =  15000 
+COST( 10 , 8 ) =  15000 
+COST( 10 , 9 ) =  15000 
+COST( 10 , 10 ) =  15000 
+COST( 10 , 11 ) =  15000 
+COST( 11 , 1 ) =  15000 
+COST( 11 , 2 ) =  15000 
+COST( 11 , 3 ) =  15000 
+COST( 11 , 4 ) =  15000 
+COST( 11 , 5 ) =  15000 
+COST( 11 , 6 ) =  15000 
+COST( 11 , 7 ) =  15000 
+COST( 11 , 8 ) =  56 
+COST( 11 , 9 ) =  15000 
+COST( 11 , 10 ) =  15000 
+COST( 11 , 11 ) =  15000 
+Iteracion  1 : VERTICE SELECCIONADO U =  1 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  126 , SOL( 2 ) =  0 
+DIST( 3 ) =  80 , SOL( 3 ) =  0 
+DIST( 4 ) =  0 , SOL( 4 ) =  1 
+DIST( 5 ) =  126 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  2 : VERTICE SELECCIONADO U =  2 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  126 , SOL( 2 ) =  1 
+DIST( 3 ) =  80 , SOL( 3 ) =  0 
+DIST( 4 ) =  0 , SOL( 4 ) =  1 
+DIST( 5 ) =  126 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  3 : VERTICE SELECCIONADO U =  3 
+DIST( 1 ) =  192 , SOL( 1 ) =  1 
+DIST( 2 ) =  126 , SOL( 2 ) =  1 
+DIST( 3 ) =  80 , SOL( 3 ) =  1 
+DIST( 4 ) =  0 , SOL( 4 ) =  1 
+DIST( 5 ) =  126 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  4 : VERTICE SELECCIONADO U =  5 
+DIST( 1 ) =  192 , SOL( 1 ) =  1 
+DIST( 2 ) =  126 , SOL( 2 ) =  1 
+DIST( 3 ) =  80 , SOL( 3 ) =  1 
+DIST( 4 ) =  0 , SOL( 4 ) =  1 
+DIST( 5 ) =  126 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  5 : VERTICE SELECCIONADO U =  6 
+DIST( 1 ) =  192 , SOL( 1 ) =  1 
+DIST( 2 ) =  126 , SOL( 2 ) =  1 
+DIST( 3 ) =  80 , SOL( 3 ) =  1 
+DIST( 4 ) =  0 , SOL( 4 ) =  1 
+DIST( 5 ) =  126 , SOL( 5 ) =  1 
+DIST( 6 ) =  175 , SOL( 6 ) =  1 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  6 : VERTICE SELECCIONADO U =  7 
+DIST( 1 ) =  192 , SOL( 1 ) =  1 
+DIST( 2 ) =  126 , SOL( 2 ) =  1 
+DIST( 3 ) =  80 , SOL( 3 ) =  1 
+DIST( 4 ) =  0 , SOL( 4 ) =  1 
+DIST( 5 ) =  126 , SOL( 5 ) =  1 
+DIST( 6 ) =  175 , SOL( 6 ) =  1 
+DIST( 7 ) =  276 , SOL( 7 ) =  1 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  7 : VERTICE SELECCIONADO U =  8 
+DIST( 1 ) =  192 , SOL( 1 ) =  1 
+DIST( 2 ) =  126 , SOL( 2 ) =  1 
+DIST( 3 ) =  80 , SOL( 3 ) =  1 
+DIST( 4 ) =  0 , SOL( 4 ) =  1 
+DIST( 5 ) =  126 , SOL( 5 ) =  1 
+DIST( 6 ) =  175 , SOL( 6 ) =  1 
+DIST( 7 ) =  276 , SOL( 7 ) =  1 
+DIST( 8 ) =  345 , SOL( 8 ) =  1 
+DIST( 9 ) =  348 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  8 : VERTICE SELECCIONADO U =  9 
+DIST( 1 ) =  192 , SOL( 1 ) =  1 
+DIST( 2 ) =  126 , SOL( 2 ) =  1 
+DIST( 3 ) =  80 , SOL( 3 ) =  1 
+DIST( 4 ) =  0 , SOL( 4 ) =  1 
+DIST( 5 ) =  126 , SOL( 5 ) =  1 
+DIST( 6 ) =  175 , SOL( 6 ) =  1 
+DIST( 7 ) =  276 , SOL( 7 ) =  1 
+DIST( 8 ) =  345 , SOL( 8 ) =  1 
+DIST( 9 ) =  348 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  401 , SOL( 11 ) =  0 
+Iteracion  9 : VERTICE SELECCIONADO U =  10 
+DIST( 1 ) =  192 , SOL( 1 ) =  1 
+DIST( 2 ) =  126 , SOL( 2 ) =  1 
+DIST( 3 ) =  80 , SOL( 3 ) =  1 
+DIST( 4 ) =  0 , SOL( 4 ) =  1 
+DIST( 5 ) =  126 , SOL( 5 ) =  1 
+DIST( 6 ) =  175 , SOL( 6 ) =  1 
+DIST( 7 ) =  276 , SOL( 7 ) =  1 
+DIST( 8 ) =  345 , SOL( 8 ) =  1 
+DIST( 9 ) =  348 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  401 , SOL( 11 ) =  0 
+Iteracion  10 : VERTICE SELECCIONADO U =  11 
+DIST( 1 ) =  192 , SOL( 1 ) =  1 
+DIST( 2 ) =  126 , SOL( 2 ) =  1 
+DIST( 3 ) =  80 , SOL( 3 ) =  1 
+DIST( 4 ) =  0 , SOL( 4 ) =  1 
+DIST( 5 ) =  126 , SOL( 5 ) =  1 
+DIST( 6 ) =  175 , SOL( 6 ) =  1 
+DIST( 7 ) =  276 , SOL( 7 ) =  1 
+DIST( 8 ) =  345 , SOL( 8 ) =  1 
+DIST( 9 ) =  348 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  401 , SOL( 11 ) =  1 
+SALIDA        LLEGADA       DISTANCIA
+ 4             1             192 
+ 4             2             126 
+ 4             3             80 
+ 4             4             0 
+ 4             5             126 
+ 4             6             175 
+ 4             7             276 
+ 4             8             345 
+ 4             9             348 
+ 4             11            401 
+Iteracion  1 : VERTICE SELECCIONADO U =  1 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  0 
+DIST( 3 ) =  148 , SOL( 3 ) =  0 
+DIST( 4 ) =  126 , SOL( 4 ) =  0 
+DIST( 5 ) =  0 , SOL( 5 ) =  1 
+DIST( 6 ) =  49 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  2 : VERTICE SELECCIONADO U =  2 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  148 , SOL( 3 ) =  0 
+DIST( 4 ) =  126 , SOL( 4 ) =  0 
+DIST( 5 ) =  0 , SOL( 5 ) =  1 
+DIST( 6 ) =  49 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  3 : VERTICE SELECCIONADO U =  3 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  148 , SOL( 3 ) =  1 
+DIST( 4 ) =  126 , SOL( 4 ) =  0 
+DIST( 5 ) =  0 , SOL( 5 ) =  1 
+DIST( 6 ) =  49 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  4 : VERTICE SELECCIONADO U =  4 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  270 , SOL( 2 ) =  1 
+DIST( 3 ) =  148 , SOL( 3 ) =  1 
+DIST( 4 ) =  126 , SOL( 4 ) =  1 
+DIST( 5 ) =  0 , SOL( 5 ) =  1 
+DIST( 6 ) =  49 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  5 : VERTICE SELECCIONADO U =  6 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  252 , SOL( 2 ) =  1 
+DIST( 3 ) =  148 , SOL( 3 ) =  1 
+DIST( 4 ) =  126 , SOL( 4 ) =  1 
+DIST( 5 ) =  0 , SOL( 5 ) =  1 
+DIST( 6 ) =  49 , SOL( 6 ) =  1 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  6 : VERTICE SELECCIONADO U =  7 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  252 , SOL( 2 ) =  1 
+DIST( 3 ) =  148 , SOL( 3 ) =  1 
+DIST( 4 ) =  126 , SOL( 4 ) =  1 
+DIST( 5 ) =  0 , SOL( 5 ) =  1 
+DIST( 6 ) =  49 , SOL( 6 ) =  1 
+DIST( 7 ) =  150 , SOL( 7 ) =  1 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  7 : VERTICE SELECCIONADO U =  8 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  252 , SOL( 2 ) =  1 
+DIST( 3 ) =  148 , SOL( 3 ) =  1 
+DIST( 4 ) =  126 , SOL( 4 ) =  1 
+DIST( 5 ) =  0 , SOL( 5 ) =  1 
+DIST( 6 ) =  49 , SOL( 6 ) =  1 
+DIST( 7 ) =  150 , SOL( 7 ) =  1 
+DIST( 8 ) =  219 , SOL( 8 ) =  1 
+DIST( 9 ) =  222 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  8 : VERTICE SELECCIONADO U =  9 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  252 , SOL( 2 ) =  1 
+DIST( 3 ) =  148 , SOL( 3 ) =  1 
+DIST( 4 ) =  126 , SOL( 4 ) =  1 
+DIST( 5 ) =  0 , SOL( 5 ) =  1 
+DIST( 6 ) =  49 , SOL( 6 ) =  1 
+DIST( 7 ) =  150 , SOL( 7 ) =  1 
+DIST( 8 ) =  219 , SOL( 8 ) =  1 
+DIST( 9 ) =  222 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  275 , SOL( 11 ) =  0 
+Iteracion  9 : VERTICE SELECCIONADO U =  10 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  252 , SOL( 2 ) =  1 
+DIST( 3 ) =  148 , SOL( 3 ) =  1 
+DIST( 4 ) =  126 , SOL( 4 ) =  1 
+DIST( 5 ) =  0 , SOL( 5 ) =  1 
+DIST( 6 ) =  49 , SOL( 6 ) =  1 
+DIST( 7 ) =  150 , SOL( 7 ) =  1 
+DIST( 8 ) =  219 , SOL( 8 ) =  1 
+DIST( 9 ) =  222 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  275 , SOL( 11 ) =  0 
+Iteracion  10 : VERTICE SELECCIONADO U =  11 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  252 , SOL( 2 ) =  1 
+DIST( 3 ) =  148 , SOL( 3 ) =  1 
+DIST( 4 ) =  126 , SOL( 4 ) =  1 
+DIST( 5 ) =  0 , SOL( 5 ) =  1 
+DIST( 6 ) =  49 , SOL( 6 ) =  1 
+DIST( 7 ) =  150 , SOL( 7 ) =  1 
+DIST( 8 ) =  219 , SOL( 8 ) =  1 
+DIST( 9 ) =  222 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  275 , SOL( 11 ) =  1 
+SALIDA        LLEGADA       DISTANCIA
+ 5             2             252 
+ 5             3             148 
+ 5             4             126 
+ 5             5             0 
+ 5             6             49 
+ 5             7             150 
+ 5             8             219 
+ 5             9             222 
+ 5             11            275 
+Iteracion  1 : VERTICE SELECCIONADO U =  1 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  0 
+DIST( 3 ) =  15000 , SOL( 3 ) =  0 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  49 , SOL( 5 ) =  0 
+DIST( 6 ) =  0 , SOL( 6 ) =  1 
+DIST( 7 ) =  101 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  2 : VERTICE SELECCIONADO U =  2 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  0 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  49 , SOL( 5 ) =  0 
+DIST( 6 ) =  0 , SOL( 6 ) =  1 
+DIST( 7 ) =  101 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  3 : VERTICE SELECCIONADO U =  3 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  49 , SOL( 5 ) =  0 
+DIST( 6 ) =  0 , SOL( 6 ) =  1 
+DIST( 7 ) =  101 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  4 : VERTICE SELECCIONADO U =  4 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  49 , SOL( 5 ) =  0 
+DIST( 6 ) =  0 , SOL( 6 ) =  1 
+DIST( 7 ) =  101 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  5 : VERTICE SELECCIONADO U =  5 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  49 , SOL( 5 ) =  1 
+DIST( 6 ) =  0 , SOL( 6 ) =  1 
+DIST( 7 ) =  101 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  6 : VERTICE SELECCIONADO U =  7 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  197 , SOL( 3 ) =  1 
+DIST( 4 ) =  175 , SOL( 4 ) =  1 
+DIST( 5 ) =  49 , SOL( 5 ) =  1 
+DIST( 6 ) =  0 , SOL( 6 ) =  1 
+DIST( 7 ) =  101 , SOL( 7 ) =  1 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  7 : VERTICE SELECCIONADO U =  8 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  197 , SOL( 3 ) =  1 
+DIST( 4 ) =  175 , SOL( 4 ) =  1 
+DIST( 5 ) =  49 , SOL( 5 ) =  1 
+DIST( 6 ) =  0 , SOL( 6 ) =  1 
+DIST( 7 ) =  101 , SOL( 7 ) =  1 
+DIST( 8 ) =  170 , SOL( 8 ) =  1 
+DIST( 9 ) =  173 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  8 : VERTICE SELECCIONADO U =  9 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  197 , SOL( 3 ) =  1 
+DIST( 4 ) =  175 , SOL( 4 ) =  1 
+DIST( 5 ) =  49 , SOL( 5 ) =  1 
+DIST( 6 ) =  0 , SOL( 6 ) =  1 
+DIST( 7 ) =  101 , SOL( 7 ) =  1 
+DIST( 8 ) =  170 , SOL( 8 ) =  1 
+DIST( 9 ) =  173 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  226 , SOL( 11 ) =  0 
+Iteracion  9 : VERTICE SELECCIONADO U =  10 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  197 , SOL( 3 ) =  1 
+DIST( 4 ) =  175 , SOL( 4 ) =  1 
+DIST( 5 ) =  49 , SOL( 5 ) =  1 
+DIST( 6 ) =  0 , SOL( 6 ) =  1 
+DIST( 7 ) =  101 , SOL( 7 ) =  1 
+DIST( 8 ) =  170 , SOL( 8 ) =  1 
+DIST( 9 ) =  173 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  226 , SOL( 11 ) =  0 
+Iteracion  10 : VERTICE SELECCIONADO U =  11 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  197 , SOL( 3 ) =  1 
+DIST( 4 ) =  175 , SOL( 4 ) =  1 
+DIST( 5 ) =  49 , SOL( 5 ) =  1 
+DIST( 6 ) =  0 , SOL( 6 ) =  1 
+DIST( 7 ) =  101 , SOL( 7 ) =  1 
+DIST( 8 ) =  170 , SOL( 8 ) =  1 
+DIST( 9 ) =  173 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  226 , SOL( 11 ) =  1 
+SALIDA        LLEGADA       DISTANCIA
+ 6             3             197 
+ 6             4             175 
+ 6             5             49 
+ 6             6             0 
+ 6             7             101 
+ 6             8             170 
+ 6             9             173 
+ 6             11            226 
+Iteracion  1 : VERTICE SELECCIONADO U =  1 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  0 
+DIST( 3 ) =  15000 , SOL( 3 ) =  0 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  101 , SOL( 6 ) =  0 
+DIST( 7 ) =  0 , SOL( 7 ) =  1 
+DIST( 8 ) =  69 , SOL( 8 ) =  0 
+DIST( 9 ) =  72 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  2 : VERTICE SELECCIONADO U =  2 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  0 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  101 , SOL( 6 ) =  0 
+DIST( 7 ) =  0 , SOL( 7 ) =  1 
+DIST( 8 ) =  69 , SOL( 8 ) =  0 
+DIST( 9 ) =  72 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  3 : VERTICE SELECCIONADO U =  3 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  101 , SOL( 6 ) =  0 
+DIST( 7 ) =  0 , SOL( 7 ) =  1 
+DIST( 8 ) =  69 , SOL( 8 ) =  0 
+DIST( 9 ) =  72 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  4 : VERTICE SELECCIONADO U =  4 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  101 , SOL( 6 ) =  0 
+DIST( 7 ) =  0 , SOL( 7 ) =  1 
+DIST( 8 ) =  69 , SOL( 8 ) =  0 
+DIST( 9 ) =  72 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  5 : VERTICE SELECCIONADO U =  5 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  101 , SOL( 6 ) =  0 
+DIST( 7 ) =  0 , SOL( 7 ) =  1 
+DIST( 8 ) =  69 , SOL( 8 ) =  0 
+DIST( 9 ) =  72 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  6 : VERTICE SELECCIONADO U =  6 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  101 , SOL( 6 ) =  1 
+DIST( 7 ) =  0 , SOL( 7 ) =  1 
+DIST( 8 ) =  69 , SOL( 8 ) =  0 
+DIST( 9 ) =  72 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  7 : VERTICE SELECCIONADO U =  8 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  150 , SOL( 5 ) =  1 
+DIST( 6 ) =  101 , SOL( 6 ) =  1 
+DIST( 7 ) =  0 , SOL( 7 ) =  1 
+DIST( 8 ) =  69 , SOL( 8 ) =  1 
+DIST( 9 ) =  72 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  8 : VERTICE SELECCIONADO U =  9 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  150 , SOL( 5 ) =  1 
+DIST( 6 ) =  101 , SOL( 6 ) =  1 
+DIST( 7 ) =  0 , SOL( 7 ) =  1 
+DIST( 8 ) =  69 , SOL( 8 ) =  1 
+DIST( 9 ) =  72 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  125 , SOL( 11 ) =  0 
+Iteracion  9 : VERTICE SELECCIONADO U =  10 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  150 , SOL( 5 ) =  1 
+DIST( 6 ) =  101 , SOL( 6 ) =  1 
+DIST( 7 ) =  0 , SOL( 7 ) =  1 
+DIST( 8 ) =  69 , SOL( 8 ) =  1 
+DIST( 9 ) =  72 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  125 , SOL( 11 ) =  0 
+Iteracion  10 : VERTICE SELECCIONADO U =  11 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  150 , SOL( 5 ) =  1 
+DIST( 6 ) =  101 , SOL( 6 ) =  1 
+DIST( 7 ) =  0 , SOL( 7 ) =  1 
+DIST( 8 ) =  69 , SOL( 8 ) =  1 
+DIST( 9 ) =  72 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  125 , SOL( 11 ) =  1 
+SALIDA        LLEGADA       DISTANCIA
+ 7             5             150 
+ 7             6             101 
+ 7             7             0 
+ 7             8             69 
+ 7             9             72 
+ 7             11            125 
+Iteracion  1 : VERTICE SELECCIONADO U =  1 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  0 
+DIST( 3 ) =  15000 , SOL( 3 ) =  0 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  69 , SOL( 7 ) =  0 
+DIST( 8 ) =  0 , SOL( 8 ) =  1 
+DIST( 9 ) =  45 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  56 , SOL( 11 ) =  0 
+Iteracion  2 : VERTICE SELECCIONADO U =  2 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  0 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  69 , SOL( 7 ) =  0 
+DIST( 8 ) =  0 , SOL( 8 ) =  1 
+DIST( 9 ) =  45 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  56 , SOL( 11 ) =  0 
+Iteracion  3 : VERTICE SELECCIONADO U =  3 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  69 , SOL( 7 ) =  0 
+DIST( 8 ) =  0 , SOL( 8 ) =  1 
+DIST( 9 ) =  45 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  56 , SOL( 11 ) =  0 
+Iteracion  4 : VERTICE SELECCIONADO U =  4 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  69 , SOL( 7 ) =  0 
+DIST( 8 ) =  0 , SOL( 8 ) =  1 
+DIST( 9 ) =  45 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  56 , SOL( 11 ) =  0 
+Iteracion  5 : VERTICE SELECCIONADO U =  5 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  69 , SOL( 7 ) =  0 
+DIST( 8 ) =  0 , SOL( 8 ) =  1 
+DIST( 9 ) =  45 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  56 , SOL( 11 ) =  0 
+Iteracion  6 : VERTICE SELECCIONADO U =  6 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  69 , SOL( 7 ) =  0 
+DIST( 8 ) =  0 , SOL( 8 ) =  1 
+DIST( 9 ) =  45 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  56 , SOL( 11 ) =  0 
+Iteracion  7 : VERTICE SELECCIONADO U =  7 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  69 , SOL( 7 ) =  1 
+DIST( 8 ) =  0 , SOL( 8 ) =  1 
+DIST( 9 ) =  45 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  56 , SOL( 11 ) =  0 
+Iteracion  8 : VERTICE SELECCIONADO U =  9 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  170 , SOL( 6 ) =  1 
+DIST( 7 ) =  69 , SOL( 7 ) =  1 
+DIST( 8 ) =  0 , SOL( 8 ) =  1 
+DIST( 9 ) =  45 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  56 , SOL( 11 ) =  0 
+Iteracion  9 : VERTICE SELECCIONADO U =  10 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  170 , SOL( 6 ) =  1 
+DIST( 7 ) =  69 , SOL( 7 ) =  1 
+DIST( 8 ) =  0 , SOL( 8 ) =  1 
+DIST( 9 ) =  45 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  56 , SOL( 11 ) =  0 
+Iteracion  10 : VERTICE SELECCIONADO U =  11 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  170 , SOL( 6 ) =  1 
+DIST( 7 ) =  69 , SOL( 7 ) =  1 
+DIST( 8 ) =  0 , SOL( 8 ) =  1 
+DIST( 9 ) =  45 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  56 , SOL( 11 ) =  1 
+SALIDA        LLEGADA       DISTANCIA
+ 8             6             170 
+ 8             7             69 
+ 8             8             0 
+ 8             9             45 
+ 8             11            56 
+Iteracion  1 : VERTICE SELECCIONADO U =  1 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  0 
+DIST( 3 ) =  15000 , SOL( 3 ) =  0 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  72 , SOL( 7 ) =  0 
+DIST( 8 ) =  45 , SOL( 8 ) =  0 
+DIST( 9 ) =  0 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  2 : VERTICE SELECCIONADO U =  2 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  0 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  72 , SOL( 7 ) =  0 
+DIST( 8 ) =  45 , SOL( 8 ) =  0 
+DIST( 9 ) =  0 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  3 : VERTICE SELECCIONADO U =  3 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  72 , SOL( 7 ) =  0 
+DIST( 8 ) =  45 , SOL( 8 ) =  0 
+DIST( 9 ) =  0 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  4 : VERTICE SELECCIONADO U =  4 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  72 , SOL( 7 ) =  0 
+DIST( 8 ) =  45 , SOL( 8 ) =  0 
+DIST( 9 ) =  0 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  5 : VERTICE SELECCIONADO U =  5 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  72 , SOL( 7 ) =  0 
+DIST( 8 ) =  45 , SOL( 8 ) =  0 
+DIST( 9 ) =  0 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  6 : VERTICE SELECCIONADO U =  6 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  72 , SOL( 7 ) =  0 
+DIST( 8 ) =  45 , SOL( 8 ) =  0 
+DIST( 9 ) =  0 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  7 : VERTICE SELECCIONADO U =  7 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  72 , SOL( 7 ) =  1 
+DIST( 8 ) =  45 , SOL( 8 ) =  0 
+DIST( 9 ) =  0 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  8 : VERTICE SELECCIONADO U =  8 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  173 , SOL( 6 ) =  1 
+DIST( 7 ) =  72 , SOL( 7 ) =  1 
+DIST( 8 ) =  45 , SOL( 8 ) =  1 
+DIST( 9 ) =  0 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  9 : VERTICE SELECCIONADO U =  10 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  173 , SOL( 6 ) =  1 
+DIST( 7 ) =  72 , SOL( 7 ) =  1 
+DIST( 8 ) =  45 , SOL( 8 ) =  1 
+DIST( 9 ) =  0 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  101 , SOL( 11 ) =  0 
+Iteracion  10 : VERTICE SELECCIONADO U =  11 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  173 , SOL( 6 ) =  1 
+DIST( 7 ) =  72 , SOL( 7 ) =  1 
+DIST( 8 ) =  45 , SOL( 8 ) =  1 
+DIST( 9 ) =  0 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  101 , SOL( 11 ) =  1 
+SALIDA        LLEGADA       DISTANCIA
+ 9             6             173 
+ 9             7             72 
+ 9             8             45 
+ 9             9             0 
+ 9             11            101 
+Iteracion  1 : VERTICE SELECCIONADO U =  1 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  0 
+DIST( 3 ) =  15000 , SOL( 3 ) =  0 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  0 , SOL( 10 ) =  1 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  2 : VERTICE SELECCIONADO U =  2 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  0 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  0 , SOL( 10 ) =  1 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  3 : VERTICE SELECCIONADO U =  3 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  0 , SOL( 10 ) =  1 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  4 : VERTICE SELECCIONADO U =  4 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  0 , SOL( 10 ) =  1 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  5 : VERTICE SELECCIONADO U =  5 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  0 , SOL( 10 ) =  1 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  6 : VERTICE SELECCIONADO U =  6 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  0 , SOL( 10 ) =  1 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  7 : VERTICE SELECCIONADO U =  7 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  15000 , SOL( 7 ) =  1 
+DIST( 8 ) =  15000 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  0 , SOL( 10 ) =  1 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  8 : VERTICE SELECCIONADO U =  8 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  15000 , SOL( 7 ) =  1 
+DIST( 8 ) =  15000 , SOL( 8 ) =  1 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  0 , SOL( 10 ) =  1 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  9 : VERTICE SELECCIONADO U =  9 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  15000 , SOL( 7 ) =  1 
+DIST( 8 ) =  15000 , SOL( 8 ) =  1 
+DIST( 9 ) =  15000 , SOL( 9 ) =  1 
+DIST( 10 ) =  0 , SOL( 10 ) =  1 
+DIST( 11 ) =  15000 , SOL( 11 ) =  0 
+Iteracion  10 : VERTICE SELECCIONADO U =  11 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  15000 , SOL( 7 ) =  1 
+DIST( 8 ) =  15000 , SOL( 8 ) =  1 
+DIST( 9 ) =  15000 , SOL( 9 ) =  1 
+DIST( 10 ) =  0 , SOL( 10 ) =  1 
+DIST( 11 ) =  15000 , SOL( 11 ) =  1 
+SALIDA        LLEGADA       DISTANCIA
+ 10            10            0 
+Iteracion  1 : VERTICE SELECCIONADO U =  1 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  0 
+DIST( 3 ) =  15000 , SOL( 3 ) =  0 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  56 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  0 , SOL( 11 ) =  1 
+Iteracion  2 : VERTICE SELECCIONADO U =  2 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  0 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  56 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  0 , SOL( 11 ) =  1 
+Iteracion  3 : VERTICE SELECCIONADO U =  3 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  0 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  56 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  0 , SOL( 11 ) =  1 
+Iteracion  4 : VERTICE SELECCIONADO U =  4 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  0 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  56 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  0 , SOL( 11 ) =  1 
+Iteracion  5 : VERTICE SELECCIONADO U =  5 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  0 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  56 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  0 , SOL( 11 ) =  1 
+Iteracion  6 : VERTICE SELECCIONADO U =  6 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  15000 , SOL( 7 ) =  0 
+DIST( 8 ) =  56 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  0 , SOL( 11 ) =  1 
+Iteracion  7 : VERTICE SELECCIONADO U =  7 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  15000 , SOL( 7 ) =  1 
+DIST( 8 ) =  56 , SOL( 8 ) =  0 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  0 , SOL( 11 ) =  1 
+Iteracion  8 : VERTICE SELECCIONADO U =  8 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  15000 , SOL( 7 ) =  1 
+DIST( 8 ) =  56 , SOL( 8 ) =  1 
+DIST( 9 ) =  15000 , SOL( 9 ) =  0 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  0 , SOL( 11 ) =  1 
+Iteracion  9 : VERTICE SELECCIONADO U =  9 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  125 , SOL( 7 ) =  1 
+DIST( 8 ) =  56 , SOL( 8 ) =  1 
+DIST( 9 ) =  101 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  0 
+DIST( 11 ) =  0 , SOL( 11 ) =  1 
+Iteracion  10 : VERTICE SELECCIONADO U =  10 
+DIST( 1 ) =  15000 , SOL( 1 ) =  1 
+DIST( 2 ) =  15000 , SOL( 2 ) =  1 
+DIST( 3 ) =  15000 , SOL( 3 ) =  1 
+DIST( 4 ) =  15000 , SOL( 4 ) =  1 
+DIST( 5 ) =  15000 , SOL( 5 ) =  1 
+DIST( 6 ) =  15000 , SOL( 6 ) =  1 
+DIST( 7 ) =  125 , SOL( 7 ) =  1 
+DIST( 8 ) =  56 , SOL( 8 ) =  1 
+DIST( 9 ) =  101 , SOL( 9 ) =  1 
+DIST( 10 ) =  15000 , SOL( 10 ) =  1 
+DIST( 11 ) =  0 , SOL( 11 ) =  1 
+SALIDA        LLEGADA       DISTANCIA
+ 11            7             125 
+ 11            8             56 
+ 11            9             101 
+ 11            11            0 
+
